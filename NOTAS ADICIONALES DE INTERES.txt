@@ -1,0 +1,17 @@
+PROYECTO - EQUIPO2 - LABORATORIO 1
+/*
+ *      Integrantes:
+ *          Mosquera, Daniel   C.I: 26.779.308
+ *          Navas, Yovani      C.I: 26.668.030
+ *          Perez, Alyeluz     C.I: 21.129.930
+ *          Ramirez, Jennifer  C.I: 26.480.892
+ *          Vargas, Samary     C.I: 26.835.762
+ */
+
+INSTRUCCIONES PARA PROBAR Y CORRER EL PROYECTO EN APACHE NETBEANS
+
+*usuario y clave para correr y probar el proyecto temporalmente: admin (en ambos campos)
+* Cambiar credenciales de base de datos para que se pueda establecer la conexion en la clase Singleton.java
+* Patron Singleton implementado ubicado en el paquete database, representa la conexion a la base de datos en postgres
+* nombre de la base de datos: unicl
+* paquete Diagramas_UML dentro de carpeta src contiene MER, Diagrama de clases Inicial de todo el proyecto, y diseño de patrones Singleton y Observer
